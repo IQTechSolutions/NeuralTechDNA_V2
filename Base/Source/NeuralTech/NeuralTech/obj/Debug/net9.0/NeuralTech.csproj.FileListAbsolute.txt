@@ -1,0 +1,11 @@
+E:\Development\NeuralTechDNA_V2\Base\Source\NeuralTech\NeuralTech\bin\Debug\net9.0\NeuralTech.deps.json
+E:\Development\NeuralTechDNA_V2\Base\Source\NeuralTech\NeuralTech\bin\Debug\net9.0\NeuralTech.dll
+E:\Development\NeuralTechDNA_V2\Base\Source\NeuralTech\NeuralTech\bin\Debug\net9.0\NeuralTech.pdb
+E:\Development\NeuralTechDNA_V2\Base\Source\NeuralTech\NeuralTech\obj\Debug\net9.0\NeuralTech.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\NeuralTechDNA_V2\Base\Source\NeuralTech\NeuralTech\obj\Debug\net9.0\NeuralTech.AssemblyInfoInputs.cache
+E:\Development\NeuralTechDNA_V2\Base\Source\NeuralTech\NeuralTech\obj\Debug\net9.0\NeuralTech.AssemblyInfo.cs
+E:\Development\NeuralTechDNA_V2\Base\Source\NeuralTech\NeuralTech\obj\Debug\net9.0\NeuralTech.csproj.CoreCompileInputs.cache
+E:\Development\NeuralTechDNA_V2\Base\Source\NeuralTech\NeuralTech\obj\Debug\net9.0\NeuralTech.dll
+E:\Development\NeuralTechDNA_V2\Base\Source\NeuralTech\NeuralTech\obj\Debug\net9.0\refint\NeuralTech.dll
+E:\Development\NeuralTechDNA_V2\Base\Source\NeuralTech\NeuralTech\obj\Debug\net9.0\NeuralTech.pdb
+E:\Development\NeuralTechDNA_V2\Base\Source\NeuralTech\NeuralTech\obj\Debug\net9.0\ref\NeuralTech.dll

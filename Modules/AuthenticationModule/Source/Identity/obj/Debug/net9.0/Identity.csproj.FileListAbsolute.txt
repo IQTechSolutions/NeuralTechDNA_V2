@@ -1,0 +1,17 @@
+E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\obj\Debug\net9.0\Identity.csproj.AssemblyReference.cache
+E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\obj\Debug\net9.0\Identity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\obj\Debug\net9.0\Identity.AssemblyInfoInputs.cache
+E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\obj\Debug\net9.0\Identity.AssemblyInfo.cs
+E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\obj\Debug\net9.0\Identity.csproj.CoreCompileInputs.cache
+E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\bin\Debug\net9.0\Identity.deps.json
+E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\bin\Debug\net9.0\Identity.dll
+E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\bin\Debug\net9.0\Identity.pdb
+E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\bin\Debug\net9.0\Filing.dll
+E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\bin\Debug\net9.0\NeuralTech.dll
+E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\bin\Debug\net9.0\NeuralTech.pdb
+E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\bin\Debug\net9.0\Filing.pdb
+E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\obj\Debug\net9.0\Identity.csproj.Up2Date
+E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\obj\Debug\net9.0\Identity.dll
+E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\obj\Debug\net9.0\refint\Identity.dll
+E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\obj\Debug\net9.0\Identity.pdb
+E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\obj\Debug\net9.0\ref\Identity.dll

@@ -1,0 +1,15 @@
+E:\Development\NeuralTechDNA_V2\Modules\FilingModule\Source\Filing\bin\Debug\net9.0\Filing.deps.json
+E:\Development\NeuralTechDNA_V2\Modules\FilingModule\Source\Filing\bin\Debug\net9.0\Filing.dll
+E:\Development\NeuralTechDNA_V2\Modules\FilingModule\Source\Filing\bin\Debug\net9.0\Filing.pdb
+E:\Development\NeuralTechDNA_V2\Modules\FilingModule\Source\Filing\bin\Debug\net9.0\NeuralTech.dll
+E:\Development\NeuralTechDNA_V2\Modules\FilingModule\Source\Filing\bin\Debug\net9.0\NeuralTech.pdb
+E:\Development\NeuralTechDNA_V2\Modules\FilingModule\Source\Filing\obj\Debug\net9.0\Filing.csproj.AssemblyReference.cache
+E:\Development\NeuralTechDNA_V2\Modules\FilingModule\Source\Filing\obj\Debug\net9.0\Filing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\NeuralTechDNA_V2\Modules\FilingModule\Source\Filing\obj\Debug\net9.0\Filing.AssemblyInfoInputs.cache
+E:\Development\NeuralTechDNA_V2\Modules\FilingModule\Source\Filing\obj\Debug\net9.0\Filing.AssemblyInfo.cs
+E:\Development\NeuralTechDNA_V2\Modules\FilingModule\Source\Filing\obj\Debug\net9.0\Filing.csproj.CoreCompileInputs.cache
+E:\Development\NeuralTechDNA_V2\Modules\FilingModule\Source\Filing\obj\Debug\net9.0\Filing.csproj.Up2Date
+E:\Development\NeuralTechDNA_V2\Modules\FilingModule\Source\Filing\obj\Debug\net9.0\Filing.dll
+E:\Development\NeuralTechDNA_V2\Modules\FilingModule\Source\Filing\obj\Debug\net9.0\refint\Filing.dll
+E:\Development\NeuralTechDNA_V2\Modules\FilingModule\Source\Filing\obj\Debug\net9.0\Filing.pdb
+E:\Development\NeuralTechDNA_V2\Modules\FilingModule\Source\Filing\obj\Debug\net9.0\ref\Filing.dll

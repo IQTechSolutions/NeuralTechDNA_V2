@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Development\\NeuralTechDNA_V2\\Base\\Source\\NeuralTech\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07CC86CC-34C0-4503-821A-36AA93901FDF}|NeuralTech.EntityFramework\\NeuralTech.EntityFramework.csproj|e:\\development\\neuraltechdna_v2\\base\\source\\neuraltech\\neuraltech.entityframework\\context\\auditablecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CC86CC-34C0-4503-821A-36AA93901FDF}|NeuralTech.EntityFramework\\NeuralTech.EntityFramework.csproj|solutionrelative:neuraltech.entityframework\\context\\auditablecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CC86CC-34C0-4503-821A-36AA93901FDF}|NeuralTech.EntityFramework\\NeuralTech.EntityFramework.csproj|e:\\development\\neuraltechdna_v2\\base\\source\\neuraltech\\neuraltech.entityframework\\entities\\auditentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CC86CC-34C0-4503-821A-36AA93901FDF}|NeuralTech.EntityFramework\\NeuralTech.EntityFramework.csproj|solutionrelative:neuraltech.entityframework\\entities\\auditentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CC86CC-34C0-4503-821A-36AA93901FDF}|NeuralTech.EntityFramework\\NeuralTech.EntityFramework.csproj|e:\\development\\neuraltechdna_v2\\base\\source\\neuraltech\\neuraltech.entityframework\\entities\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CC86CC-34C0-4503-821A-36AA93901FDF}|NeuralTech.EntityFramework\\NeuralTech.EntityFramework.csproj|solutionrelative:neuraltech.entityframework\\entities\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A7465A-20F7-4766-98DB-902D52B5F5C9}|..\\..\\..\\Modules\\AuthenticationModule\\Source\\Identity\\Identity.csproj|e:\\development\\neuraltechdna_v2\\modules\\authenticationmodule\\source\\identity\\entities\\socialmediasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Audit.cs",
+              "DocumentMoniker": "E:\\Development\\NeuralTechDNA_V2\\Base\\Source\\NeuralTech\\NeuralTech.EntityFramework\\Entities\\Audit.cs",
+              "RelativeDocumentMoniker": "NeuralTech.EntityFramework\\Entities\\Audit.cs",
+              "ToolTip": "E:\\Development\\NeuralTechDNA_V2\\Base\\Source\\NeuralTech\\NeuralTech.EntityFramework\\Entities\\Audit.cs",
+              "RelativeToolTip": "NeuralTech.EntityFramework\\Entities\\Audit.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:51:42.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuditableContext.cs",
+              "DocumentMoniker": "E:\\Development\\NeuralTechDNA_V2\\Base\\Source\\NeuralTech\\NeuralTech.EntityFramework\\Context\\AuditableContext.cs",
+              "RelativeDocumentMoniker": "NeuralTech.EntityFramework\\Context\\AuditableContext.cs",
+              "ToolTip": "E:\\Development\\NeuralTechDNA_V2\\Base\\Source\\NeuralTech\\NeuralTech.EntityFramework\\Context\\AuditableContext.cs",
+              "RelativeToolTip": "NeuralTech.EntityFramework\\Context\\AuditableContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwPkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:36:47.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SocialMediaSettings.cs",
+              "DocumentMoniker": "E:\\Development\\NeuralTechDNA_V2\\Modules\\AuthenticationModule\\Source\\Identity\\Entities\\SocialMediaSettings.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Modules\\AuthenticationModule\\Source\\Identity\\Entities\\SocialMediaSettings.cs",
+              "ToolTip": "E:\\Development\\NeuralTechDNA_V2\\Modules\\AuthenticationModule\\Source\\Identity\\Entities\\SocialMediaSettings.cs",
+              "RelativeToolTip": "..\\..\\..\\Modules\\AuthenticationModule\\Source\\Identity\\Entities\\SocialMediaSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:00:42.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuditEntry.cs",
+              "DocumentMoniker": "E:\\Development\\NeuralTechDNA_V2\\Base\\Source\\NeuralTech\\NeuralTech.EntityFramework\\Entities\\AuditEntry.cs",
+              "RelativeDocumentMoniker": "NeuralTech.EntityFramework\\Entities\\AuditEntry.cs",
+              "ToolTip": "E:\\Development\\NeuralTechDNA_V2\\Base\\Source\\NeuralTech\\NeuralTech.EntityFramework\\Entities\\AuditEntry.cs",
+              "RelativeToolTip": "NeuralTech.EntityFramework\\Entities\\AuditEntry.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAA0wFsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:52:00.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
