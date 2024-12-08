@@ -15,3 +15,4 @@ E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\obj
 E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\obj\Debug\net9.0\refint\Identity.dll
 E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\obj\Debug\net9.0\Identity.pdb
 E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\obj\Debug\net9.0\ref\Identity.dll
+E:\Development\NeuralTechDNA_V2\Modules\AuthenticationModule\Source\Identity\obj\Debug\net9.0\Identity.sourcelink.json

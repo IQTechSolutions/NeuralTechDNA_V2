@@ -1,0 +1,6 @@
+E:\Development\NeuralTechDNA_V2\Modules\AccommodationModule\Accommodation.Base\obj\Debug\net9.0\Accommodation.Base.csproj.AssemblyReference.cache
+E:\Development\NeuralTechDNA_V2\Modules\AccommodationModule\Accommodation.Base\obj\Debug\net9.0\Accommodation.Base.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\NeuralTechDNA_V2\Modules\AccommodationModule\Accommodation.Base\obj\Debug\net9.0\Accommodation.Base.AssemblyInfoInputs.cache
+E:\Development\NeuralTechDNA_V2\Modules\AccommodationModule\Accommodation.Base\obj\Debug\net9.0\Accommodation.Base.AssemblyInfo.cs
+E:\Development\NeuralTechDNA_V2\Modules\AccommodationModule\Accommodation.Base\obj\Debug\net9.0\Accommodation.Base.csproj.CoreCompileInputs.cache
+E:\Development\NeuralTechDNA_V2\Modules\AccommodationModule\Accommodation.Base\obj\Debug\net9.0\Accommodation.Base.sourcelink.json

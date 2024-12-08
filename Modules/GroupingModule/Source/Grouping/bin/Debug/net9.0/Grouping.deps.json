@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Grouping/1.0.0": {
+        "dependencies": {
+          "Filing": "1.0.0",
+          "NeuralTech": "1.0.0"
+        },
+        "runtime": {
+          "Grouping.dll": {}
+        }
+      },
+      "Filing/1.0.0": {
+        "dependencies": {
+          "NeuralTech": "1.0.0"
+        },
+        "runtime": {
+          "Filing.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "NeuralTech/1.0.0": {
+        "runtime": {
+          "NeuralTech.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Grouping/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Filing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NeuralTech/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

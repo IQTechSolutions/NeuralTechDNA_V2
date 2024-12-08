@@ -1,0 +1,6 @@
+E:\Development\NeuralTechDNA_V2\Vendors\LodgingVendors\Source\NightsBridge\obj\Debug\net9.0\NightsBridge.csproj.AssemblyReference.cache
+E:\Development\NeuralTechDNA_V2\Vendors\LodgingVendors\Source\NightsBridge\obj\Debug\net9.0\NightsBridge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\NeuralTechDNA_V2\Vendors\LodgingVendors\Source\NightsBridge\obj\Debug\net9.0\NightsBridge.AssemblyInfoInputs.cache
+E:\Development\NeuralTechDNA_V2\Vendors\LodgingVendors\Source\NightsBridge\obj\Debug\net9.0\NightsBridge.AssemblyInfo.cs
+E:\Development\NeuralTechDNA_V2\Vendors\LodgingVendors\Source\NightsBridge\obj\Debug\net9.0\NightsBridge.csproj.CoreCompileInputs.cache
+E:\Development\NeuralTechDNA_V2\Vendors\LodgingVendors\Source\NightsBridge\obj\Debug\net9.0\NightsBridge.sourcelink.json

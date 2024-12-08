@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Base\Source\NeuralTech\NeuralTech\NeuralTech.csproj" />
+    <ProjectReference Include="..\..\..\AuthenticationModule\Source\Identity\Identity.csproj" />
+    <ProjectReference Include="..\..\..\FilingModule\Source\Filing\Filing.csproj" />
+  </ItemGroup>
+
+</Project>

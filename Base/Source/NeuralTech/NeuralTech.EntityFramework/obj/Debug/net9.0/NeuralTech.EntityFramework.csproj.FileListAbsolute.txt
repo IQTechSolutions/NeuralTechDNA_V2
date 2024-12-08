@@ -19,3 +19,4 @@ E:\Development\NeuralTechDNA_V2\Base\Source\NeuralTech\NeuralTech.EntityFramewor
 E:\Development\NeuralTechDNA_V2\Base\Source\NeuralTech\NeuralTech.EntityFramework\obj\Debug\net9.0\refint\NeuralTech.EntityFramework.dll
 E:\Development\NeuralTechDNA_V2\Base\Source\NeuralTech\NeuralTech.EntityFramework\obj\Debug\net9.0\NeuralTech.EntityFramework.pdb
 E:\Development\NeuralTechDNA_V2\Base\Source\NeuralTech\NeuralTech.EntityFramework\obj\Debug\net9.0\ref\NeuralTech.EntityFramework.dll
+E:\Development\NeuralTechDNA_V2\Base\Source\NeuralTech\NeuralTech.EntityFramework\obj\Debug\net9.0\NeuralTech.EntityFramework.sourcelink.json

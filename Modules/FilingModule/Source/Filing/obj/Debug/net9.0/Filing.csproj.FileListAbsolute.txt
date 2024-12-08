@@ -13,3 +13,4 @@ E:\Development\NeuralTechDNA_V2\Modules\FilingModule\Source\Filing\obj\Debug\net
 E:\Development\NeuralTechDNA_V2\Modules\FilingModule\Source\Filing\obj\Debug\net9.0\refint\Filing.dll
 E:\Development\NeuralTechDNA_V2\Modules\FilingModule\Source\Filing\obj\Debug\net9.0\Filing.pdb
 E:\Development\NeuralTechDNA_V2\Modules\FilingModule\Source\Filing\obj\Debug\net9.0\ref\Filing.dll
+E:\Development\NeuralTechDNA_V2\Modules\FilingModule\Source\Filing\obj\Debug\net9.0\Filing.sourcelink.json

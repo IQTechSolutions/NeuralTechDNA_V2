@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\..\Base\Source\NeuralTech\NeuralTech\NeuralTech.csproj" />
-    <ProjectReference Include="..\..\..\..\Modules\AccommodationModule\Accommodation.Base\Accommodation.Base.csproj" />
   </ItemGroup>
 
   <ItemGroup>
