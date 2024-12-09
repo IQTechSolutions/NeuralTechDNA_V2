@@ -6,11 +6,12 @@ using Microsoft.EntityFrameworkCore;
 using Moq;
 using NeuralTech.Entities;
 using NeuralTech.EntityFramework.Context;
+using NeuralTech.EntityFramework.Tests.Entities;
 using NeuralTech.Enums;
 using NeuralTech.Interfaces;
 using Newtonsoft.Json;
 
-namespace NeuralTech.Tests
+namespace NeuralTech.EntityFramework.Tests
 {
     /// <summary>
     /// Contains unit tests for the <see cref="AuditableContext"/> class, ensuring that auditing functionality works as expected.
@@ -225,41 +226,6 @@ namespace NeuralTech.Tests
         }
     }
 
-    /// <summary>
-    /// Test implementation of <see cref="AuditableContext"/> with a Products DbSet for testing purposes.
-    /// </summary>
-    public class TestAuditableContext : AuditableContext
-    {
-        /// <summary>
-        /// Initializes a new instance of the <see cref="TestAuditableContext"/> class with specified options and HTTP context accessor.
-        /// </summary>
-        /// <param name="options">Options for configuring the context.</param>
-        /// <param name="httpContextAccessor">Accessor for the current HTTP context.</param>
-        public TestAuditableContext(DbContextOptions options, IHttpContextAccessor httpContextAccessor)
-            : base(options, httpContextAccessor)
-        {
-        }
+    
 
-        /// <summary>
-        /// Gets or sets the DbSet of Product entities.
-        /// </summary>
-        public DbSet<Product> Products { get; set; } = null!;
-    }
-
-    /// <summary>
-    /// Sample product entity used for testing, implements <see cref="IAuditableEntity"/>.
-    /// </summary>
-    public class Product : EntityBase<string>, IAuditableEntity
-    {
-        /// <summary>
-        /// Gets or sets the name of the product.
-        /// </summary>
-        [Required]
-        public string Name { get; set; } = string.Empty;
-
-        /// <summary>
-        /// Gets or sets the price of the product.
-        /// </summary>
-        public decimal Price { get; set; }
-    }
 }

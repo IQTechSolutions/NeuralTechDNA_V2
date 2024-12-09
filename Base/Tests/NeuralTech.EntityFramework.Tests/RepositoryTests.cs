@@ -2,10 +2,9 @@
 using Microsoft.EntityFrameworkCore;
 using NeuralTech.EntityFramework.Context;
 using NeuralTech.EntityFramework.Interfaces;
-using NeuralTech.Tests;
-using NeuralTech.EntityFramework.Tests.Entities;
 using Microsoft.AspNetCore.Http;
 using Moq;
+using NeuralTech.EntityFramework.Tests.Entities;
 
 namespace NeuralTech.EntityFramework.Tests
 {

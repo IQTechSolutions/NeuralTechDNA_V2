@@ -71,6 +71,13 @@ namespace NeuralTech.ResultWrappers
         /// <param name="message">The failure message.</param>
         /// <returns>A task representing the asynchronous operation, with a <see cref="Result"/> indicating failure.</returns>
         public static Task<Result> FailAsync(string message) => Task.FromResult(Fail(message));
+
+        /// <summary>
+        /// Creates a failed result asynchronously, wrapping the provided error messages.
+        /// </summary>
+        /// <param name="messages">A list of error messages describing the failure.</param>
+        /// <returns>A task that resolves to a failed <see cref="Result"/> containing the provided error messages.</returns>
+        public new static Task<Result> FailAsync(List<string> messages) => Task.FromResult(Fail(messages));
     }
 
     /// <summary>
@@ -143,5 +150,13 @@ namespace NeuralTech.ResultWrappers
         /// <param name="message">The failure message.</param>
         /// <returns>A task representing the asynchronous operation, with a <see cref="Result{T}"/> indicating failure.</returns>
         public new static Task<Result<T>> FailAsync(string message) => Task.FromResult(Fail(message));
+
+        /// <summary>
+        /// Creates a failed result asynchronously, wrapping the provided error messages.
+        /// </summary>
+        /// <typeparam name="T">The type of the result data.</typeparam>
+        /// <param name="messages">A list of error messages describing the failure.</param>
+        /// <returns>A task that resolves to a failed <see cref="Result{T}"/> containing the provided error messages.</returns>
+        public new static Task<Result<T>> FailAsync(List<string> messages) => Task.FromResult(Fail(messages));
     }
 }

@@ -1,0 +1,12 @@
+E:\Development\NeuralTechDNA_V2\Modules\BeneficiaryModule\Source\Beneficiary.Shared\bin\Debug\net9.0\Beneficiary.Shared.deps.json
+E:\Development\NeuralTechDNA_V2\Modules\BeneficiaryModule\Source\Beneficiary.Shared\bin\Debug\net9.0\Beneficiary.Shared.dll
+E:\Development\NeuralTechDNA_V2\Modules\BeneficiaryModule\Source\Beneficiary.Shared\bin\Debug\net9.0\Beneficiary.Shared.pdb
+E:\Development\NeuralTechDNA_V2\Modules\BeneficiaryModule\Source\Beneficiary.Shared\obj\Debug\net9.0\Beneficiary.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\NeuralTechDNA_V2\Modules\BeneficiaryModule\Source\Beneficiary.Shared\obj\Debug\net9.0\Beneficiary.Shared.AssemblyInfoInputs.cache
+E:\Development\NeuralTechDNA_V2\Modules\BeneficiaryModule\Source\Beneficiary.Shared\obj\Debug\net9.0\Beneficiary.Shared.AssemblyInfo.cs
+E:\Development\NeuralTechDNA_V2\Modules\BeneficiaryModule\Source\Beneficiary.Shared\obj\Debug\net9.0\Beneficiary.Shared.csproj.CoreCompileInputs.cache
+E:\Development\NeuralTechDNA_V2\Modules\BeneficiaryModule\Source\Beneficiary.Shared\obj\Debug\net9.0\Beneficiary.Shared.sourcelink.json
+E:\Development\NeuralTechDNA_V2\Modules\BeneficiaryModule\Source\Beneficiary.Shared\obj\Debug\net9.0\Beneficiary.Shared.dll
+E:\Development\NeuralTechDNA_V2\Modules\BeneficiaryModule\Source\Beneficiary.Shared\obj\Debug\net9.0\refint\Beneficiary.Shared.dll
+E:\Development\NeuralTechDNA_V2\Modules\BeneficiaryModule\Source\Beneficiary.Shared\obj\Debug\net9.0\Beneficiary.Shared.pdb
+E:\Development\NeuralTechDNA_V2\Modules\BeneficiaryModule\Source\Beneficiary.Shared\obj\Debug\net9.0\ref\Beneficiary.Shared.dll
